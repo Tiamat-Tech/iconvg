@@ -1,5 +1,8 @@
 # IconVG
 
+*The canonical repository's location moved on February 2026, from
+github.com/google/iconvg to github.com/nigeltao/iconvg*
+
 IconVG is a compact, binary format for simple vector graphics: icons, logos,
 glyphs and emoji.
 
@@ -71,4 +74,4 @@ owned by Google.
 
 ---
 
-Updated on January 2022.
+Updated on February 2026.
